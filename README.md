@@ -84,9 +84,9 @@ fraudcheck-project/
 
 ### วิธีที่ 2: Clone Code จาก GitHub
 
-1. เปิดโปรแกรม Visual Studio Code หรือ Command Prompt  
-2. เลือกโฟลเดอร์ที่ต้องการเก็บโปรเจกต์  
-3. พิมพ์คำสั่งต่อไปนี้เพื่อ clone โปรเจกต์จาก GitHub:
+1. สร้างโฟลเดอร์ที่ต้องการเก็บโปรเจกต์
+2. เปิดโปรแกรม Visual Studio Code และ Command Prompt
+3. พิมพ์คำสั่งต่อไปนี้ใน Command Prompt เพื่อ clone โปรเจกต์จาก GitHub:
 
 `git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_15_pkl-r1.git`
 
